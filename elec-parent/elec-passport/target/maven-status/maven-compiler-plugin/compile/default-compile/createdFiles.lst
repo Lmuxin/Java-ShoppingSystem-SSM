@@ -1,0 +1,3 @@
+com\elec\passport\service\TbUserService.class
+com\elec\passport\service\impl\TbUserServiceImpl.class
+com\elec\passport\controller\TbUserController.class

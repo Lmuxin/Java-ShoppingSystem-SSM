@@ -1,0 +1,4 @@
+com\elec\portal\service\impl\TbContentServiceImpl.class
+com\elec\portal\controller\TbContentController.class
+com\elec\portal\service\TbContentService.class
+com\elec\portal\controller\PageController.class
